@@ -1,11 +1,16 @@
 _repo: Guide-to-the-study-of-animal-ecology_71454
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71454-h/images/cover.jpg
 creator:
   author:
     agent_name: Adams, Charles Christopher
     gutenberg_agent_id: '56244'
     url: http://www.gutenberg.org/2009/agents/56244
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71454#Guide-to-the-study-of-animal-ecology
 gutenberg_issued: '2023-08-20'
 identifiers:
   gutenberg: '71454'
